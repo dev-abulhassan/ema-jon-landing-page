@@ -1,0 +1,15 @@
+.header{
+   height: 80px;
+   background-color: #1c2b35;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 0 149px;
+}
+.category a{
+   text-decoration: none;
+   color: antiquewhite;
+   margin-left: 20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
